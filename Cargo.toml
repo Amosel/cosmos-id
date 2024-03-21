@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "cosmos_id",
+    "cosmos_id_cli"
+]
